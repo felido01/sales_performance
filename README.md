@@ -55,7 +55,7 @@ The dataset used includes key sales information:
 ### 1. Sales Trends Over Time
 Sales showed a consistent increase year over year, indicating healthy growth.
 
-![Sales Trend Over Time](https://github.com/felido01/sales_performance/blob/9c4e90f749d8c4a44a3b9963e0bd1f43a1854bf1/newplot%20(6).png)
+
 
 ---
 
@@ -64,8 +64,6 @@ Sales showed a consistent increase year over year, indicating healthy growth.
 - Other high performers included smartphones from Cisco, Motorola, and Nokia  
 - Technology dominated in both sales and profitability  
 
-![Top Products](path/to/top_products_bar_chart.png)  
-![Sales by Category](path/to/sales_by_category_pie_chart.png)
 
 ---
 
@@ -73,7 +71,7 @@ Sales showed a consistent increase year over year, indicating healthy growth.
 - Calculated average shipping time by priority  
 - Order priority correlates well with shipping duration  
 
-![Shipping Duration by Priority](path/to/shipping_duration_boxplot.png)
+
 
 ---
 
@@ -82,8 +80,6 @@ Sales showed a consistent increase year over year, indicating healthy growth.
 - Central region led in both sales and profits  
 - Strong performance in Oceania and Southeast Asia  
 
-![Sales by Region](path/to/region_sales_bar_chart.png)  
-![Market Map](path/to/sales_map_visual.png)
 
 ---
 
@@ -91,7 +87,7 @@ Sales showed a consistent increase year over year, indicating healthy growth.
 - Phones, Chairs, and Copiers were top-performing  
 - Labels and Fasteners had low performance  
 
-![Sub-Category Performance](path/to/subcategory_performance_chart.png)
+
 
 ---
 
@@ -99,7 +95,6 @@ Sales showed a consistent increase year over year, indicating healthy growth.
 - Consumer segment had the highest sales and profit  
 - Corporate and Home Office followed closely  
 
-![Sales by Segment](path/to/segment_sales_bar_chart.png)
 
 ---
 
@@ -107,13 +102,12 @@ Sales showed a consistent increase year over year, indicating healthy growth.
 - Discounts over 50% often led to losses  
 - Strong correlation between discount rate and profit reduction  
 
-![Discount vs Profit](path/to/discount_vs_profit_scatterplot.png)
 
 ---
 
 ## Dashboard
 Interactive Power BI dashboard for this analysis:  
-🔗 [**View Dashboard**](https://app.powerbi.com/links/PSaHjGBs_9?ctid=a36e1a13-c829-4154-8635-f2516711db50&pbi_source=linkShare)  
+🔗 [**View Dashboard**]([https://app.powerbi.com/links/PSaHjGBs_9?ctid=a36e1a13-c829-4154-8635-f2516711db50&pbi_source=linkShare](https://app.powerbi.com/groups/me/reports/ad67bd55-0f6b-43a2-9d86-b3c6538d6e2e/8b31219404f6dd63992a?experience=power-bi))  
 > *(Requires Power BI account to access)*
 
 ---
