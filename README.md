@@ -6,7 +6,7 @@ Sales data is more than just numbers—it reflects how well a business meets cus
 ---
 
 ## Project Overview
-This project showcases my ability to analyze and visualize sales performance using Python. It includes preparing the dataset, conducting thorough data exploration, and building insightful visualizations to summarize findings. The analysis is complemented by a Power BI dashboard for interactive exploration of the data.
+This project showcases my ability to analyze and visualize sales performance using Python. It includes preparing the dataset, conducting thorough data exploration, and building insightful visualizations to summarize findings. The analysis is complemented by a Power BI dashboard for interactive exploration of the data. The notebook file where this analysis was done can be gotten [Here](https://colab.research.google.com/drive/1lcm9vW6VO56u1bdVR_L-bHVqzrVlbTPI?usp=sharing)
 
 ---
 
