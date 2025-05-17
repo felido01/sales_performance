@@ -55,7 +55,7 @@ The dataset used includes key sales information:
 ### 1. Sales Trends Over Time
 Sales showed a consistent increase year over year, indicating healthy growth.
 
-![Sales Trend Over Time](path/to/sales_trend_chart.png)
+![Sales Trend Over Time](https://github.com/felido01/sales_performance/blob/9c4e90f749d8c4a44a3b9963e0bd1f43a1854bf1/newplot%20(6).png)
 
 ---
 
