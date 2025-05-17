@@ -107,7 +107,7 @@ Sales showed a consistent increase year over year, indicating healthy growth.
 
 ## Dashboard
 Interactive Power BI dashboard for this analysis:  
-🔗 [**View Dashboard**]([https://app.powerbi.com/links/PSaHjGBs_9?ctid=a36e1a13-c829-4154-8635-f2516711db50&pbi_source=linkShare](https://app.powerbi.com/groups/me/reports/ad67bd55-0f6b-43a2-9d86-b3c6538d6e2e/8b31219404f6dd63992a?experience=power-bi))  
+🔗 [**View Dashboard**](https://app.powerbi.com/groups/me/reports/ad67bd55-0f6b-43a2-9d86-b3c6538d6e2e/8b31219404f6dd63992a?experience=power-bi)  
 > *(Requires Power BI account to access)*
 
 ---
@@ -123,23 +123,23 @@ Interactive Power BI dashboard for this analysis:
 
 ## Recommendations
 
-### ✅ Revisit Discount Strategy
+###  Revisit Discount Strategy
 - Limit excessive discounts on high-demand products  
 - Use strategic promotions on low-performing sub-categories
 
-### ✅ Boost Demand for Low-Selling Products
+###  Boost Demand for Low-Selling Products
 - Promote products like Labels and Fasteners with campaigns
 
-### ✅ Enhance Logistics
+###  Enhance Logistics
 - Streamline supply chain for improved delivery times
 
-### ✅ Expand High-Profit Segments
+###  Expand High-Profit Segments
 - Focus marketing and inventory on Technology and top-selling items
 
-### ✅ Focus on Regional Strategy
+###  Focus on Regional Strategy
 - Use localized campaigns in underperforming regions like Canada and parts of Europe
 
-### ✅ Collect More Customer Data
+###  Collect More Customer Data
 - Use surveys or feedback tools to gather demographic insights
 
 ---
@@ -157,4 +157,4 @@ This analysis highlights how effective data analytics can uncover trends, identi
 ---
 
 **Data Analyst**: Felix Idowu  
-**Project Repository**: *[Add GitHub link here]*  
+**Project Repository**: *[https://github.com/felido01/sales_performance/tree/main]*  
